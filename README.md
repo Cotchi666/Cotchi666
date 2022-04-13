@@ -15,6 +15,7 @@
 ## Things I am passionate about
 
 - Android :robot:
+- IOS: @@
 - Open source :octocat:
 
 ## Get in touch :coffee:
