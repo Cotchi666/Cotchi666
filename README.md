@@ -9,10 +9,7 @@
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
-
+I'm Nguyen Ngoc Chien. The one who wants to be a DEV in the future___ Nice to meet you guys visiting my GitHub. Hope u full of energy for a day!!
 
 ## Things I am passionate about
 
