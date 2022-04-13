@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Chien and I like coding" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
   <br />
   <br />
 
@@ -75,5 +75,10 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 </div>
