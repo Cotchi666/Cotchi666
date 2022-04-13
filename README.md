@@ -9,7 +9,8 @@
 
 ## About me
 
-I'm Nguyen Ngoc Chien. The one who wants to be a DEV in the future___ Nice to meet you guys visiting my GitHub. Hope u full of energy for a day!!
+-I'm Nguyen Ngoc Chien. The one who wants to be a DEV in the future.
+-Nice to meet you guys visiting my GitHub. Hope u full of energy for a day!!
 
 ## Things I am passionate about
 
