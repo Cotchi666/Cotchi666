@@ -26,8 +26,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
-<strong>Sign my guest book</strong>
+<a href="https://myanimelist.net/anime/9963/Detective_Conan_Movie_15__Quarter_of_Silence">
+<strong>This is my fav anime</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
