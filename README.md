@@ -23,6 +23,5 @@
 - 🎸 I’m currently hearing some rock music, you want too? (<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Music</strong>)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://www.facebook.com/cot.toxicff/" />
 <br/>
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Hello world">
