@@ -20,8 +20,6 @@
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Facebook](https://www.facebook.com/cot.toxicff/).
-- And of course GitHub you're already on (Recursion).
-
 - 🎸 I’m currently hearing some rock music, you want too? (<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Music</strong>)
 
