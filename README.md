@@ -1,24 +1,38 @@
+# Hey there :wave:
 
-<svg fill="none" viewBox="0 0 500 50" width="500" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: limegreen;
-          font-size: 1.5em;
-        }
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-        .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
-        }
-        @keyframes blink-animation {
-          to {
-            visibility: hidden;
-          }
-        }
-      </style>
-      <strong>My Name is Livio and I like <span class="blink">Node.js</span></strong>
-		</div>
-	</foreignObject>
-</svg>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+## About me
+
+I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+
+I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Android related things and tech in general on [Facebook](https://www.facebook.com/cot.toxicff/).
+- And of course GitHub you're already on (Recursion).
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
