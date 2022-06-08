@@ -17,6 +17,7 @@
 
 - Android :robot:
 - IOS: @@
+- FullStack -.-
 - Open source :octocat:
 
 ## Get in touch :coffee:
