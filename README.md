@@ -16,7 +16,7 @@
 ## Things I am passionate about
 
 - Android :robot:
-- IOS: @@
+- IOS: 💻
 - FullStack -.-
 - Open source :octocat:
 
