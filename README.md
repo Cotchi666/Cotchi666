@@ -9,7 +9,7 @@
 
 ## About me
 
--I'm Nguyen Ngoc Chien. The one who wants to be a DEV in the future.
+-I'm Nguyen Ngoc Chien. The one who wants to be a Programmer in the future.
 <br/>
 -Nice to meet you guys visiting my GitHub. Hope you full of energy for a day!!
 
