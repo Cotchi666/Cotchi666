@@ -15,7 +15,7 @@
 
 ## About me
 
--I'm Nguyen Ngoc Chien. The one who wants to be a Programmer in the future.
+-I'm a programmer in VietNam.
 <br/>
 -Nice to meet you guys visiting my GitHub. Hope you full of energy for a day!!
 
