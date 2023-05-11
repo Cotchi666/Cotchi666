@@ -9,9 +9,6 @@
    </div>
   <br/>
   <div style="display: flex;justify-content:center;">
-      <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="html" width="100px">
-      <img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="css" width="100px">
-      <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="js" width="100px"></div>
 
 ## About me
 
