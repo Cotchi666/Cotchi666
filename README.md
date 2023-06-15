@@ -25,7 +25,7 @@
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Facebook](https://www.facebook.com/cot.toxicff/).
+- Your future buddy to discuss related things and tech in general on [Facebook](https://www.facebook.com/cot.toxicff/).
 - 🎸 I’m currently hearing some rock music, you want too? (<a href="https://www.youtube.com/watch?v=yh_ydvIJAxg"><strong>Music</strong>)
 
 <img height="100" alt="Music" src="https://thumbs.gfycat.com/FearlessShimmeringBluejay-max-1mb.gif"> 
