@@ -18,10 +18,8 @@
 
 ## Things I am passionate about
 
-- Android :robot:
-- IOS: 🍎
+_ Python - C#
 - FullStack 💻
-- Open source :octocat:
 
 ## Get in touch :coffee:
 
