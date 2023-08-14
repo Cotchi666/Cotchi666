@@ -12,8 +12,7 @@
 
 ## About me
 
--I'm a programmer in VietNam.
-<br/>
+-I'm a programmer from the friendly country of Vietnam.<br/>
 -Nice to meet you guys visiting my GitHub. Hope you full of energy for a day!!
 
 ## Things I am passionate about
