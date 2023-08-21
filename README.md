@@ -17,7 +17,7 @@
 
 ## Things I am passionate about
 
-- FullStack (Python, C#) 💻
+- FullStack (Python, C#, JavaScript) 💻
 
 ## Get in touch :coffee:
 
