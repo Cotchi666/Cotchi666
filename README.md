@@ -12,7 +12,8 @@
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
    <p  align="center">🎸 I’m currently hearing some rock music, you want too? (<a href="https://www.youtube.com/watch?v=0tn6nWYNK3Q&ab_channel=MGKVEVO"><strong>Music</strong></a>).
 </p>
-  <div align="center" > <img   height="100" alt="Music" src="https://thumbs.gfycat.com/FearlessShimmeringBluejay-max-1mb.gif"> </div>
+  <div align="center" > <a href="https://open.spotify.com/playlist/4ErYQNVTmWBAmzFQ0z82Vz?si=e006b8bf4554433b
+" target="_blank" rel="noreferrer"><img   height="100" alt="Music" src="https://thumbs.gfycat.com/FearlessShimmeringBluejay-max-1mb.gif"> </div> <a/>
 
 <br/>
 
