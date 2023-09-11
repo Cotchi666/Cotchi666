@@ -13,7 +13,7 @@
    <p  align="center">🎸 I’m currently hearing some rock music, you want too? (<a href="https://www.youtube.com/watch?v=0tn6nWYNK3Q&ab_channel=MGKVEVO"><strong>Music</strong></a>).
 </p>
   <div align="center" > <a href="https://open.spotify.com/playlist/4ErYQNVTmWBAmzFQ0z82Vz?si=e006b8bf4554433b
-" target="_blank" rel="noreferrer"><img   height="100" alt="Music" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlqZHU1bnN3cGNoOXF4bnZ6MHhoZ3Y0ODJwemU5a3MzY3gyMjV3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsaJzxBG4t3els8UN8/giphy.gif"> </div> <a/>
+" target="_blank" rel="noreferrer"><img   height="100" alt="Music" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-701.gif"> </div> <a/>
 
 <br/>
 
