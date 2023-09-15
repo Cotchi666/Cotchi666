@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lsriniwas.lsriniwas)
 <h1 align="center">Hi 👋, I'm Finney (Chien)</h1>
 <h3 align="center">A passionate Software Engineer from VietNam</h3>
    <div align='center'>
