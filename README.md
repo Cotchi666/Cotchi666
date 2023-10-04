@@ -8,14 +8,15 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **[Voltrans Corp](https://github.com/voltranscorp) as Python Developer**
+ 🔭 I’m currently working on **[Voltrans Corp](https://github.com/voltranscorp)**
  
- 🌱 I’m currently learning **Odoo, Python, NextJS, TypeScipt, JavaScript**
+ 🌱 I’m currently learning **NextJS, Odoo, JavaScript, Python**
 
- 💬 Ask me about **Python, Odoo, Node.js, React, MongoDB, ... or anything [here](https://github.com/Cotchi666/Cotchi666/issues)**
+ 💬 Ask me about **Python, Odoo, Node.js, React, ... or anything [here](https://github.com/Cotchi666/Cotchi666/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
+ ⚡ Fun fact **I'm superb addicted rock songs, you wanna hear with me?**
+  <div align="center" > <a href="https://open.spotify.com/playlist/4ErYQNVTmWBAmzFQ0z82Vz?si=e006b8bf4554433b
+" target="_blank" rel="noreferrer"><img   height="100" alt="Music" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-701.gif"> </div> <a/>
  </div>
  
 <div align="center">
