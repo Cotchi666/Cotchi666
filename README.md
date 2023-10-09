@@ -32,6 +32,15 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java&theme=light" />
+    <details>
+<summary>:eyes: Show more </summary>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cotchi666" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cotchi666&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 <br/>
@@ -46,7 +55,6 @@
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
-</h3>
 
-<br/>
+</h3>
 
