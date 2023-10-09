@@ -28,13 +28,19 @@
 </div>
  <hr/>
  
-<h2 align="center">⚒️ Languages ⚒️</h2>
+<h2 align="center">⚒️ Languages and Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java&theme=light" />
-    <details>
-<summary>:eyes: Show more </summary>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,express,dotnet&theme=light&perline=4" />
+      <details>
+<summary >:eyes: Show more </summary>
+<h2 align="center">⚒️ Tools and more ⚒️</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,tailwind,react,redux,mysql,mongodb,sqlite,postgres,postman,powershell,visualstudio,vscode,eclipse,firebase,sequelize,prisma,vercel,heroku&perline=11" />
+  </a>
+</p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cotchi666" />
 </a>
