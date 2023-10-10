@@ -1,10 +1,10 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cotchi666.Cotchi666" />
 <div align="center">
-  <h2> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Finn+Chien+" />
-  <img  align="left" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
+  <h2> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Finn+Chien+" /></h2>
 
+
+</div>
   <h3 align="left">A passionate software developer from Vietnam 🇻🇳</h3>
-
 
 <div align="left" >
 
@@ -49,11 +49,11 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cotchi666&layout=compact&langs_count=8&card_width=320" />
 </a>
+  <img  align="left" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
 
 </div>
   </div>
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
 
-  
-</h3>
+
 
