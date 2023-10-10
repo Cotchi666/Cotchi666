@@ -1,5 +1,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cotchi666.Cotchi666" />
-<div align="center">
+<div align="left">
   <h2> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Finn+Chien+" /></h2>
 
 
@@ -7,14 +7,10 @@
   <h3 align="left">A passionate software developer from Vietnam 🇻🇳</h3>
 
 <div align="left" >
-
- 🔭 I’m currently working on **[Voltrans corp](https://github.com/voltranscorp)**
  
  🌱 I’m currently learning **Odoo, Python, NextJS ,Web & Mobile App**
 
  💬 Ask me about **Odoo, Node.js, React, Python, JS... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
- ⚡ Fun fact **I am a huge fan of rock songs, especially MGK**
   
  </div>
  <div align="left"> 
@@ -28,12 +24,12 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
- <hr/>
  
 <h2 align="left">⚒️ Languages and Frameworks ⚒️</h2>
-<br/>
+
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,express,dotnet&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,express,dotnet" />
+  <br/>
       <details>
 <summary >:eyes: Show more </summary>
 <h2 align="left">⚒️ Tools and more ⚒️</h2>
@@ -53,7 +49,7 @@
 
 </div>
   </div>
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)"></div>
 
 
 
