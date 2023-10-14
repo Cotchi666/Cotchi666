@@ -1,4 +1,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cotchi666.Cotchi666" />
+<br/>
 <div align="left">
   <h2> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Finn+Chien+" /></h2>
 
