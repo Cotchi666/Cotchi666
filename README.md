@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev" align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,tailwind,react,redux,mysql,mongodb,sqlite,postgres,postman,powershell,visualstudio,vscode,eclipse,firebase,sequelize,prisma,vercel,heroku&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,tailwind,react,redux,mysql,mongodb,sqlite,postgres,postman,powershell,visualstudio,vscode,eclipse,firebase,sequelize,prisma,vercel,heroku,docker&perline=11" />
   </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
