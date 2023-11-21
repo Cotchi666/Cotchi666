@@ -25,16 +25,15 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
- 
-<h2 align="left">⚒️ Languages and Frameworks ⚒️</h2>
 
+<h2 align="left">⚒️ Languages and Frameworks ⚒️</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,express,dotnet" />
-  <br/>
-      <details>
+<br/><br/>
+<details>
 <summary >:eyes: Show more </summary>
 <h2 align="left">⚒️ Tools and more ⚒️</h2>
-
+<br/>
 <p align="left">
   <a href="https://skillicons.dev" align="left">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,tailwind,react,redux,mysql,mongodb,sqlite,postgres,postman,powershell,visualstudio,vscode,eclipse,firebase,sequelize,prisma,vercel,heroku,docker&perline=11" />
