@@ -1,20 +1,24 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cotchi666.Cotchi666" />
+  
 <br/>
-<div align="left">
-  <h2> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Finn+Chien+" /></h2>
+ 
+<br/>
+<div align="center" >
+ <div  align="center"> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=Hello+world+👋!!!;My+name+is+Finn+Chien+" /></div> 
+ <img  align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
 
+   <h3 align="center">A passionate programmer from Vietnam 🇻🇳</h3>
 
 </div>
-  <h3 align="left">A passionate software developer from Vietnam 🇻🇳</h3>
 
-<div align="left" >
+<div align="center" >
  
- 🌱 I’m currently learning **Odoo, Python, NextJS ,Web & Mobile App**
+ 🌱 I’m currently learning **Odoo, Python, MERN Stack ,Web & Mobile App**
 
  💬 Ask me about **Odoo, Node.js, React, Python, JS... or anything [here](https://github.com/salesp07/salesp07/issues)**
   
  </div>
- <div align="left"> 
+ <div align="center"> 
   <a href="mailto:chien.170901@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -26,26 +30,26 @@
   </a>
 </div>
 
-<h2 align="left">⚒️ Languages and Frameworks ⚒️</h2>
-<div align="left">
+<h2 align="center">⚒️ Languages and Frameworks ⚒️</h2>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,express,dotnet" />
 <br/><br/>
 <details>
 <summary >:eyes: Show more </summary>
-<h2 align="left">⚒️ Tools and more ⚒️</h2>
+<h2 align="center">⚒️ Tools and more ⚒️</h2>
 <br/>
-<p align="left">
-  <a href="https://skillicons.dev" align="left">
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,bootstrap,tailwind,react,redux,mysql,mongodb,sqlite,postgres,postman,powershell,visualstudio,vscode,eclipse,firebase,sequelize,prisma,vercel,heroku,docker&perline=11" />
   </a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Cotchi666" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cotchi666" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cotchi666&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cotchi666&layout=compact&langs_count=8&card_width=320" />
 </a>
-  <img  align="left" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
+ 
 
 </div>
   </div>
