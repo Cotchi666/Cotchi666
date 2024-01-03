@@ -5,8 +5,7 @@
 <br/>
 <div align="center" >
  <div  align="center"> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=👋+👋+👋+Hello+world+👋+👋+👋!!!;My+name+is+Finn+Chien+👋" /></div> 
-<!--  <img  align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
- -->
+
    <h3 align="center">A passionate programmer from Vietnam 🇻🇳</h3>
 
 </div>
@@ -49,6 +48,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cotchi666&layout=compact&langs_count=8&card_width=320" />
 </a>
+ <img  align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
+
  
 
 </div>
