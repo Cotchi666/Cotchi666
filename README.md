@@ -12,7 +12,7 @@
 
 <div align="center" >
  
- 🌱 I’m currently learning **Odoo, Python, MERN Stack ,Web & Mobile App**
+ 🌱 I’m currently working on **Odoo, Python, MERN Stack ,Web & Mobile App**
 
  💬 Ask me about **Odoo, Node.js, React, Python, JS... or anything [here](https://github.com/salesp07/salesp07/issues)**
   
