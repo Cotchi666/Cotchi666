@@ -1,7 +1,14 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cotchi666.Cotchi666" />
-  
+
+### Hi there  ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+        print('Hello world')
+        print('There is a land where I share ideas and have a break 🇻🇳 .') 
+        print('I'm currently building AI chatbot and chillin' some MGK songs 🎸 .')
+
+<details>
+<summary > ⚡️ More about my coding life  </summary>  
 <br/>
- 
+ <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cotchi666.Cotchi666" />
+
 <br/>
 <div align="center" >
  <div  align="center"> <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&v&width=500&height=70&duration=4000&lines=👋+👋+👋+Hello+world+👋+👋+👋!!!;My+name+is+Finn+Chien+👋" /></div> 
@@ -33,8 +40,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,java,nextjs,express,dotnet" />
 <br/><br/>
-<details>
-<summary >:eyes: Show more </summary>
 <h2 align="center">⚒️ Tools and more ⚒️</h2>
 <br/>
 <p align="center">
@@ -49,8 +54,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cotchi666&layout=compact&langs_count=8&card_width=320" />
 </a>
  <img  align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cotchi666/Cotchi666/output/github-contribution-grid-snake.svg" />
-
- 
 
 </div>
   </div>
